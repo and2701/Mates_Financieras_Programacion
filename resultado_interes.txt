@@ -1,0 +1,8 @@
+REPORTE FINANCIERO: INTERES SIMPLE
+==================================
+Serie Banxico consultada: SF60648
+Tasa anual: 6.7760%
+Capital inicial: $150,000.00
+Plazo: 28 dias
+Interes simple generado: $790.53
+Monto total acumulado: $150,790.53
